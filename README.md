@@ -25,5 +25,8 @@ How to use your library (where applicable)
 
 ## Tests
 How do you run tests?  
+I used Pytest  
 Any tests of note?  
+The tests were supplied today  
 Describe any tests that you did not complete, skipped, etc  
+All tests complete!  
